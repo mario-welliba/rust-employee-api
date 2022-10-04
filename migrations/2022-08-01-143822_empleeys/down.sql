@@ -1,0 +1,1 @@
+DROP TABLE employees-- This file should undo anything in `up.sql`

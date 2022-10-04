@@ -1,0 +1,2 @@
+ALTER TABLE employees 
+ADD COLUMN city VARCHAR NULL
